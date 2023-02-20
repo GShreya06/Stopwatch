@@ -67,10 +67,10 @@ h1{
     cursor: pointer;
     outline: none;
 }
-#starttimer{
+#startTimer{
     background-color:#d23332;
 }
 
-#resettimer{
+#resetTimer{
     background-color: #20b380 ;
 }
